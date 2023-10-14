@@ -31,4 +31,6 @@ Contribution: Feel free to contribute to this repository by enhancing the utilit
 
 License: This utility is open-source and available under the MIT License.
 
-Team Secure Bug Vandit Barola Prerna Rathore Pratush Raman
+Team Secure Bug : Prerna Rathore
+                   Vandit Barola
+                  Pratush Raman
